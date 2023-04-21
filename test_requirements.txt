@@ -81,7 +81,7 @@ regex==2021.4.4
     # via black
 requests==2.25.1
     # via coveralls
-sqlparse==0.4.2
+sqlparse==0.4.4
     # via django
 toml==0.10.2
     # via black
